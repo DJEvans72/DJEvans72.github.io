@@ -6,9 +6,10 @@ with [Experience Haus](https://experiencehaus.com).
 I found out that .md is using the markdown file syntax
 # for heading one
 ## Heading 2
-### HEading 3
+### Heading 3
 
 - you can use - for bullet points
+
 1. and can start a line with a number for numbered lists
 
 license files cerate a mark down files
