@@ -1,17 +1,9 @@
 # DJEvans72.github.io
 
-This is a project for taking notes while studying the front end web development
-with [Experience Haus](https://experiencehaus.com).
+# TWCC Coaches Guide 2018
 
-I found out that .md is using the markdown file syntax
-# for heading one
-## Heading 2
-### Heading 3
+This site is a collection of resources structure for cricket coaches and
+players to help them with a 12 week cricket term.
 
-- you can use - for bullet points
-
-1. and can start a line with a number for numbered lists
-
-license files cerate a mark down files
-some people put contributing guidelines in a separate mark down file.
-they can also be out at the bottom of the README.md
+It uses the bootstrap CSS utilities and components and has been developed
+as part of my front end web developing course provide by the wonderful [Experience Haus](https://experiencehaus.com).
